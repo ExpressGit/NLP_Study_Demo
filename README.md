@@ -5,7 +5,6 @@
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
 | 4/18/23 | 5分钟一键部署万能Auto-GPT | <img src="images/02-AIHot.jpg" width="200px"/> | 07:18 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1AL411v7TH)](https://www.bilibili.com/video/BV1AL411v7TH)|
-
 | 4/16/23 | 5分钟部署免费、免翻墙、本地化ChatGPT指南 | <img src="images/01-AIHot.jpg" width="200px"/> | 11:32 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1mo4y187L5)](https://www.bilibili.com/video/BV1mo4y187L5)|
 
 
