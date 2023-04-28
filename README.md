@@ -4,6 +4,9 @@
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
+| 4/27/23 | MiniGPT-4为什么可以看图说话 | <img src="images/05-AIHot.jpg" width="200px"/> | 07:18 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1wM411G74e)](https://www.bilibili.com/video/BV1wM411G74e)|
+| 4/25/23 | 快速了解ChatGPT-Academic | <img src="images/04-AIHot.jpg" width="200px"/> | 07:18 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1mh411j7mg)](https://www.bilibili.com/video/BV1mh411j7mg)|
+| 4/21/23 | 5分钟部署中文版ChatGLM(工程代码已优化） | <img src="images/03-AIHot.jpg" width="200px"/> | 07:18 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1Yk4y1a7tU)](https://www.bilibili.com/video/BV1Yk4y1a7tU)|
 | 4/18/23 | 5分钟一键部署万能Auto-GPT | <img src="images/02-AIHot.jpg" width="200px"/> | 07:18 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1AL411v7TH)](https://www.bilibili.com/video/BV1AL411v7TH)|
 | 4/16/23 | 5分钟部署免费、免翻墙、本地化ChatGPT指南 | <img src="images/01-AIHot.jpg" width="200px"/> | 11:32 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1mo4y187L5)](https://www.bilibili.com/video/BV1mo4y187L5)|
 
