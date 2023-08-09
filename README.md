@@ -5,6 +5,14 @@
 - AI能力私有化部署指南
 - 深度学习算法原理讲解
 - Pytorch深度学习算法开发教程
+- Hugging face Transformer系列教程
+
+## Transformer视频
+
+| 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
+| --: | -- | -- | --: | -- |
+| 8/09/23 | transformer-day02-模型详解 | <img src="images/transformer-day02.jpg" width="200px"/> | 10:54 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1bp4y1G7Y7)](https://www.bilibili.com/video/BV1bp4y1G7Y7)|
+| 8/07/23 | transformer-day01-起源&介绍 | <img src="images/transformer-day01.jpg" width="200px"/> | 10:54 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV15m4y1s7a8)](https://www.bilibili.com/video/BV15m4y1s7a8)|
 
 ## AI热点
 
