@@ -19,4 +19,5 @@ mnistdata/*
 .idea/*
 *.onnx
 *.py
+*.ipynb
 
