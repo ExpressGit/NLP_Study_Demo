@@ -7,6 +7,14 @@
 - Pytorch深度学习算法开发教程
 - Hugging face Transformer系列教程
 
+LetsAskAI(AI助手）：http://www.aiadvice.top/
+
+- 可以使用 AI 助手实现以下代码
+- 使用场景：https://w1l3qi32ze.feishu.cn/wiki/A3DSwMUr0i54YVkKWrQcunGhnef
+- 让AI成为您解决问题的得力助手！用AI的力量解答疑难，提升效率
+- AI 海报设计
+
+
 ## Transformer视频
 
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
