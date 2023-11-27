@@ -14,6 +14,7 @@ LetsAskAI(AI助手）：http://www.aiadvice.top/
 - 让AI成为您解决问题的得力助手！用AI的力量解答疑难，提升效率
 - AI 海报设计
 
+项目介绍：https://github.com/ExpressGit/LetAsKAI
 
 ## Transformer视频
 
