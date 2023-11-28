@@ -9,10 +9,14 @@
 
 LetsAskAI(AI助手）：http://www.aiadvice.top/
 
-- 可以使用 AI 助手实现以下代码
+特性：
+- 首次注册，免费尝鲜国内顺畅体验GPT3、GPT4、文心一言等AI大模型。
+- Python、Java、Matlab、前端页面编码开发
+- 论文改进思路
+- AI 海报设计，广告文案生成
+- 头条、抖音口播文案生成
+- 可提供对外 API 服务
 - 使用场景：https://w1l3qi32ze.feishu.cn/wiki/A3DSwMUr0i54YVkKWrQcunGhnef
-- 让AI成为您解决问题的得力助手！用AI的力量解答疑难，提升效率
-- AI 海报设计
 
 项目介绍：https://github.com/ExpressGit/LetAsKAI
 
