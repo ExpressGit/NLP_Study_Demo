@@ -1,24 +1,5 @@
 # 机器学习&深度学习教程
 
-官网地址：https://www.aiexplorer.blog/
-
-- AI能力私有化部署指南
-- 深度学习算法原理讲解
-- Pytorch深度学习算法开发教程
-- Hugging face Transformer系列教程
-
-LetsAskAI(AI助手）：http://www.aiadvice.top/
-
-特性：
-- 首次注册，免费尝鲜国内顺畅体验GPT3、GPT4、文心一言等AI大模型。
-- Python、Java、Matlab、前端页面编码开发
-- 论文改进思路
-- AI 海报设计，广告文案生成
-- 头条、抖音口播文案生成
-- 可提供对外 API 服务
-- 使用场景：https://w1l3qi32ze.feishu.cn/wiki/A3DSwMUr0i54YVkKWrQcunGhnef
-
-项目介绍：https://github.com/ExpressGit/LetAsKAI
 
 ## Transformer视频
 
