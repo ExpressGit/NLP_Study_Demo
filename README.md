@@ -54,8 +54,3 @@
 | 3/02/23 | 通俗易懂-三哥讲机器学习-01机器学习-线性回归-LinearRegression | <img src="images/01-机器学习.jpg" width="200px"/> | 08:43 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1oD4y1u7U8)](https://www.bilibili.com/video/BV1oD4y1u7U8)|
 
 ---
-
-<img src='https://github.com/ExpressGit/Pytorch_Study_Demo/assets/11694747/fbe66014-30fb-4db9-a5e8-3d6b676c6f2f' width="300"/>
-
-
-加微信好友，截图后，免费领取源码
